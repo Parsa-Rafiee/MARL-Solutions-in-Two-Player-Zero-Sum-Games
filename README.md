@@ -1,1 +1,1 @@
-# MARL-Solutions-in Two-Player Zero-Sum-Games
+# MARL Solutions in Two-Player Zero-Sum-Games
